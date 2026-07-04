@@ -1,0 +1,24 @@
+//
+//  ContentView.swift
+//  Develop_in_Swift
+//
+//  Created by Kaito-Dogi on 2026/07/05.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Hello, world!")
+        }
+        .padding()
+    }
+}
+
+#Preview {
+    ContentView()
+}
