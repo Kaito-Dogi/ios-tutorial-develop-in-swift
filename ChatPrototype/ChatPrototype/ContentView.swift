@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Develop_in_Swift
+//  ChatPrototype
 //
 //  Created by Kaito-Dogi on 2026/07/05.
 //

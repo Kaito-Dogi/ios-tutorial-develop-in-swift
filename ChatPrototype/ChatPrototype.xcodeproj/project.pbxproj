@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		CAA58E422FF960A60026E34B /* Develop_in_Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Develop_in_Swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CAA58E5F2FF96C510026E34B /* ChatPrototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatPrototype.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		CAA58E442FF960A60026E34B /* Develop_in_Swift */ = {
+		CAA58E612FF96C510026E34B /* ChatPrototype */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Develop_in_Swift;
+			path = ChatPrototype;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CAA58E3F2FF960A60026E34B /* Frameworks */ = {
+		CAA58E5C2FF96C510026E34B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CAA58E392FF960A60026E34B = {
+		CAA58E562FF96C510026E34B = {
 			isa = PBXGroup;
 			children = (
-				CAA58E442FF960A60026E34B /* Develop_in_Swift */,
-				CAA58E432FF960A60026E34B /* Products */,
+				CAA58E612FF96C510026E34B /* ChatPrototype */,
+				CAA58E602FF96C510026E34B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CAA58E432FF960A60026E34B /* Products */ = {
+		CAA58E602FF96C510026E34B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CAA58E422FF960A60026E34B /* Develop_in_Swift.app */,
+				CAA58E5F2FF96C510026E34B /* ChatPrototype.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CAA58E412FF960A60026E34B /* Develop_in_Swift */ = {
+		CAA58E5E2FF96C510026E34B /* ChatPrototype */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CAA58E4D2FF960A70026E34B /* Build configuration list for PBXNativeTarget "Develop_in_Swift" */;
+			buildConfigurationList = CAA58E6A2FF96C530026E34B /* Build configuration list for PBXNativeTarget "ChatPrototype" */;
 			buildPhases = (
-				CAA58E3E2FF960A60026E34B /* Sources */,
-				CAA58E3F2FF960A60026E34B /* Frameworks */,
-				CAA58E402FF960A60026E34B /* Resources */,
+				CAA58E5B2FF96C510026E34B /* Sources */,
+				CAA58E5C2FF96C510026E34B /* Frameworks */,
+				CAA58E5D2FF96C510026E34B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				CAA58E442FF960A60026E34B /* Develop_in_Swift */,
+				CAA58E612FF96C510026E34B /* ChatPrototype */,
 			);
-			name = Develop_in_Swift;
+			name = ChatPrototype;
 			packageProductDependencies = (
 			);
-			productName = Develop_in_Swift;
-			productReference = CAA58E422FF960A60026E34B /* Develop_in_Swift.app */;
+			productName = ChatPrototype;
+			productReference = CAA58E5F2FF96C510026E34B /* ChatPrototype.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CAA58E3A2FF960A60026E34B /* Project object */ = {
+		CAA58E572FF96C510026E34B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2630;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
-					CAA58E412FF960A60026E34B = {
+					CAA58E5E2FF96C510026E34B = {
 						CreatedOnToolsVersion = 26.3;
 					};
 				};
 			};
-			buildConfigurationList = CAA58E3D2FF960A60026E34B /* Build configuration list for PBXProject "Develop_in_Swift" */;
+			buildConfigurationList = CAA58E5A2FF96C510026E34B /* Build configuration list for PBXProject "ChatPrototype" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = CAA58E392FF960A60026E34B;
+			mainGroup = CAA58E562FF96C510026E34B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = CAA58E432FF960A60026E34B /* Products */;
+			productRefGroup = CAA58E602FF96C510026E34B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CAA58E412FF960A60026E34B /* Develop_in_Swift */,
+				CAA58E5E2FF96C510026E34B /* ChatPrototype */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		CAA58E402FF960A60026E34B /* Resources */ = {
+		CAA58E5D2FF96C510026E34B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CAA58E3E2FF960A60026E34B /* Sources */ = {
+		CAA58E5B2FF96C510026E34B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		CAA58E4B2FF960A70026E34B /* Debug */ = {
+		CAA58E682FF96C530026E34B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +187,7 @@
 			};
 			name = Debug;
 		};
-		CAA58E4C2FF960A70026E34B /* Release */ = {
+		CAA58E692FF96C530026E34B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -241,7 +241,7 @@
 			};
 			name = Release;
 		};
-		CAA58E4E2FF960A70026E34B /* Debug */ = {
+		CAA58E6B2FF96C530026E34B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -269,7 +269,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "app.kaito-dogi.Develop-in-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = "app.kaito-dogi.ChatPrototype";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -285,7 +285,7 @@
 			};
 			name = Debug;
 		};
-		CAA58E4F2FF960A70026E34B /* Release */ = {
+		CAA58E6C2FF96C530026E34B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -313,7 +313,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "app.kaito-dogi.Develop-in-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = "app.kaito-dogi.ChatPrototype";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -332,25 +332,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CAA58E3D2FF960A60026E34B /* Build configuration list for PBXProject "Develop_in_Swift" */ = {
+		CAA58E5A2FF96C510026E34B /* Build configuration list for PBXProject "ChatPrototype" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CAA58E4B2FF960A70026E34B /* Debug */,
-				CAA58E4C2FF960A70026E34B /* Release */,
+				CAA58E682FF96C530026E34B /* Debug */,
+				CAA58E692FF96C530026E34B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CAA58E4D2FF960A70026E34B /* Build configuration list for PBXNativeTarget "Develop_in_Swift" */ = {
+		CAA58E6A2FF96C530026E34B /* Build configuration list for PBXNativeTarget "ChatPrototype" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CAA58E4E2FF960A70026E34B /* Debug */,
-				CAA58E4F2FF960A70026E34B /* Release */,
+				CAA58E6B2FF96C530026E34B /* Debug */,
+				CAA58E6C2FF96C530026E34B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CAA58E3A2FF960A60026E34B /* Project object */;
+	rootObject = CAA58E572FF96C510026E34B /* Project object */;
 }

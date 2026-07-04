@@ -1,6 +1,6 @@
 //
-//  Develop_in_SwiftApp.swift
-//  Develop_in_Swift
+//  ChatPrototypeApp.swift
+//  ChatPrototype
 //
 //  Created by Kaito-Dogi on 2026/07/05.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Develop_in_SwiftApp: App {
+struct ChatPrototypeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
